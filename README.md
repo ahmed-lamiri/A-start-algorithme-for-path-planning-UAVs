@@ -1,1 +1,1 @@
-# A-start-algorithme-for-path-planning-UAVs
+# TinyML cours on EDX platform
